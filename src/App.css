@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.data-list {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+  /* border-radius: 4px; */
+}
+
+.data-list:hover {
+  background-color: #eee;
+}
